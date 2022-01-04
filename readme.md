@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/him-learning/him-azure-deploy-learning/_apis/build/status/destroy-azure-resources?branchName=master)](https://dev.azure.com/him-learning/him-azure-deploy-learning/_build/latest?definitionId=2&branchName=master)
-
 ## tf-topgun-project
 
 #### Agenda
